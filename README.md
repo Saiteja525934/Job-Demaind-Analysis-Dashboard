@@ -1,12 +1,12 @@
-📊 Job Demand Analysis Dashboard 
+# **Job Demand Analysis Dashboard** 
 
-📌 Project Overview :
+📌 **Project Overview** :
 
 This project is a Job Demand Analysis Dashboard built to analyze job market trends, in-demand skills, salary distribution, and role-wise demand across industries.
 The goal of this project is to help students, job seekers, and professionals understand which roles and skills are most valuable in the current job market.
 The dashboard provides clear visual insights using interactive charts and data visualizations.
 
-🚀 Features :
+🚀 **Features** :
 
 •	Job role demand analysis
 
@@ -22,7 +22,7 @@ The dashboard provides clear visual insights using interactive charts and data v
 
 
 
-🛠️ Tools & Technologies Used :
+🛠️ **Tools & Technologies Used** :
 
 •	Data Processing: Python / Excel / Pandas
 
@@ -34,7 +34,7 @@ The dashboard provides clear visual insights using interactive charts and data v
 
 
 
-📊 Key Insights :
+📊 **Key Insights** :
 
 •	Most in-demand job roles: Data Analyst, Data Scientist, Software Engineer
 
@@ -46,7 +46,7 @@ The dashboard provides clear visual insights using interactive charts and data v
 
 
 
-🎯 Use Cases :
+🎯 **Use Cases** :
 
 •	Career planning
 
@@ -58,7 +58,7 @@ The dashboard provides clear visual insights using interactive charts and data v
 
 
 
-👤 Author :
+👤 **Author** :
 
 Sai Teja Telu
 
@@ -68,6 +68,6 @@ GitHub:[Saiteja525934] (https://github.com/Saiteja525934)
 
 LinkedIn:[Sai Teja Telu] (https://www.linkedin.com/in/sai-teja-b49751384/)
 
-PREVIEW :
+# Dashboard Preview Image for the above project. :
 <img width="1421" height="639" alt="Screenshot 2026-02-10 203306" src="https://github.com/user-attachments/assets/4f4bc3b9-1b0c-4f48-9ce2-f89c485c1d05" />
 
