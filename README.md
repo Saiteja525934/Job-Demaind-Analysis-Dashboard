@@ -1,5 +1,6 @@
 # Dashboard Preview Image for the above project. :
-<img width="1421" height="639" alt="Screenshot 2026-02-10 203306" src="https://github.com/user-attachments/assets/4f4bc3b9-1b0c-4f48-9ce2-f89c485c1d05" />
+
+<img width="1504" height="630" alt="Screenshot 2026-02-27 153006" src="https://github.com/user-attachments/assets/c77a0148-ff5e-44de-9cc4-c459c774f5ee" />
 
 # **Job Demand Analysis Dashboard** 
 
